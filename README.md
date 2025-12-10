@@ -23,3 +23,4 @@ nota6-9,0
 nota7-6,0
 
 nota8-10,0
+fazemos a media do aluno(a)/git Pedro Henrique e alcançamos o resultado de nota(8,3)-uma nota acima da média suficiente para o aluno(a) Pedro Henrique passar de ano.
