@@ -26,8 +26,13 @@ nota8-10,0
 
 bimestre= 8,0
 
-bimestre=
+bimestre=9,0
 
-bimestre=
+bimestre=8,5
 
-bimestre=
+bimestre=8,0
+
+nota final do aluno(a)Pedro Henrique 
+
+git/notas/alunoa(a)=8,3
+
