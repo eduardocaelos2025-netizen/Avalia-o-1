@@ -24,4 +24,10 @@ nota7-6,0
 
 nota8-10,0
 
-fizemos a média de todas as notas do aluno(a) Pedro Henrique e obtivemos o resultado git/nota(8,3)-Uma nota acima da média suficiente para o aluno passar 
+bimestre= 8,0
+
+bimestre=
+
+bimestre=
+
+bimestre=
